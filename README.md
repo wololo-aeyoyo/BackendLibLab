@@ -19,7 +19,7 @@
 
 5-activar el ambiente en windows
 
-    .\mypthon\Scripts\activate
+    .\amb\Scripts\activate
 
 6-Instalar el requiriments.txt
 
