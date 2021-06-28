@@ -49,7 +49,6 @@
 
     python manage.py runserver
 
-    python manage.py migrate
 ***
 ## El servidor emepezara a correr en 
 
